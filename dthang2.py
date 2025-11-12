@@ -1,15 +1,30 @@
 ((
-    ((([["NEWOBF"],
-    ["https://github.com/vuibui221198-ai/ok"],
-    ["PYTHON"],
-    3.12
-    ],
-    []  # Removed version check
-    ])
-                )
-            )
-        )
-    )
+    ((([["NEWOBF"],
+    ["https://github.com/vuibui221198-ai/ok"],
+    ["PYTHON"],
+    3.12
+    ],
+    []  # Removed version check
+    ])
+                )
+            )
+        )
+    )
+# Thêm hai dấu ngoặc đóng ở đây
+**))** ```
+
+Hoặc đơn giản hơn là giảm bớt các dấu ngoặc đơn không cần thiết ở đầu và cuối:
+
+```python
+([
+    [[["NEWOBF"],
+    ["https://github.com/vuibui221198-ai/ok"],
+    ["PYTHON"],
+    3.12
+    ],
+    []  # Removed version check
+    ]
+    ])
 
 
 globals()['mol'] = (bool) if bool(bool(bool(bool))) < bool(type(int(312)>int(197)<int(91)>int(197))) and bool(str(str(710)>int(49)<int(101)>int(510))) > 2 else bool
@@ -113,4 +128,5 @@ try:
     _19(
     _en+_july+_birth+__19)))))
 except Exception as e:
+
     print(e)
